@@ -9,3 +9,5 @@ I plan to document my journey into data science. I'm a total newbie and I'm actu
 Still, it's very exciting!
 
 Without further ado, *let's start!*
+
+[Female programmer](https://publicdomainvectors.org/photos/1534819034.png)
